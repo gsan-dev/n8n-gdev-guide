@@ -15,7 +15,7 @@
 ### 2. Requisitos Previos
 - [2.1 Conocimientos técnicos sugeridos](Requisitos-Previos/2.1.%20Conocimientos%20Tecnicos%20Sugeridos.md)
 - [2.2 Recursos mínimos del sistema](Requisitos-Previos/2.2.%20Recursos%20minimos%20del%20sistema.md)
-- [2.3 Instalación de dependencias base (Node.js, npm/yarn, Docker, Docker Compose)](#)
+- [2.3 Instalación de dependencias base (Node.js, npm/yarn, Docker, Docker Compose)](Requisitos-Previos/2.3.%20Instalacion%20de%20dependencias%20base.md)
 - [2.4 Recomendaciones para entorno de desarrollo local](#)
 - [2.5 Seguridad base en sistemas locales](#)
 
