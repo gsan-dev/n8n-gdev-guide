@@ -2,12 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://n8n.io/images/n8n-logo.png" alt="n8n logo" width="120"/>
-</p>
-
----
-
 ## 📚 Índice General
 
 ### 1. Introducción General
