@@ -21,8 +21,6 @@
 
 ### 3. Métodos de Instalación Local
 - [3.1 Instalación mediante Docker (recomendado para producción)](#)
-- [3.2 Instalación manual (Node.js local sin contenedores)](#)
-- [3.3 Instalación como servicio del sistema (systemd)](#)
 
 ### 4. Configuración Inicial
 - [4.1 Acceso al panel de administración](#)
