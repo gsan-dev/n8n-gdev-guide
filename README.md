@@ -29,11 +29,11 @@
 - [4.4 Configuración de Webhooks](Configuracion-Inicial/4.4%20Configuración%20de%20Webhooks.md)
 
 ### 5. Estructura y Uso de la Interfaz
-- [5.1 Panel de flujos (workflow editor)](#)
-- [5.2 Tipos de nodos](#)
-- [5.3 Mapeo de datos entre nodos (Data Mapping & Expressions)](#)
-- [5.4 Ejecución paso a paso y depuración](#)
-- [5.5 Gestión de errores en flujos](#)
+- [5.1 Panel de flujos (workflow editor)](Estructura-y-Uso-de-la-Interfaz/5.1.%20Panel%20de%20flujos%20(workflow).md)
+- [5.2 Tipos de nodos](Estructura-y-Uso-de-la-Interfaz/5.2.%20Tipos%20de%20nodos.md)
+- [5.3 Mapeo de datos entre nodos (Data Mapping & Expressions)](Estructura-y-Uso-de-la-Interfaz/5.3.%20Mapeo%20de%20datos%20entre%20nodos%20(Data%20Mapping%20&%20Expressions).md)
+- [5.4 Ejecución paso a paso y depuración](Estructura-y-Uso-de-la-Interfaz/5.4.%20Ejecución%20paso%20a%20paso%20y%20depuración.md)
+- [5.5 Gestión de errores en flujos](Estructura-y-Uso-de-la-Interfaz/5.5.%20Gestión%20de%20errores%20en%20flujos.md)
 
 ### 6. Flujos Automatizados: Creación y Gestión
 - [6.1 Crear flujos desde cero](#)
@@ -89,19 +89,12 @@
 - [12.4 Comparativa de herramientas de automatización](#)
 - [12.5 Glosario técnico y terminología multilingüe (EN/ES)](#)
 
-### 13. Traducción y Lenguaje (para internacionalistas)
-- [13.1 Internacionalización de la interfaz](#)
-- [13.2 Traducción de flujos para equipos multilingües](#)
-- [13.3 Uso de n8n en entornos multinacionales](#)
-- [13.4 Adaptación terminológica y localización cultural](#)
-- [13.5 Recursos en otros idiomas (documentación, foros, comunidades)](#)
-
 ### 14. Anexos
-- [14.1 Ejemplos prácticos (desde básicos a avanzados)](#)
-- [14.2 Errores comunes y cómo resolverlos](#)
-- [14.3 Tabla de comandos útiles](#)
-- [14.4 Cuadro de compatibilidad por versiones](#)
-- [14.5 Licenciamiento y uso comercial](#)
+- [13.1 Ejemplos prácticos (desde básicos a avanzados)](#)
+- [13.2 Errores comunes y cómo resolverlos](#)
+- [13.3 Tabla de comandos útiles](#)
+- [13.4 Cuadro de compatibilidad por versiones](#)
+- [13.5 Licenciamiento y uso comercial](#)
 
 ---
 
